@@ -1,0 +1,5 @@
+Command To Run The Tool Get Proxies
+
+pip install -r requirements.txt
+
+python get_proxies.python

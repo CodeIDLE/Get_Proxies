@@ -26,8 +26,6 @@ You can Also Use My Tool SOCKER To check for working SOCKS PROXY.
 # CONTACT
 For Any Queries:
 
-Ping Me : 
-
-[Telegram](https://t.me/codeilde02)
-
-[Group Support](https://t.me/codeildesp)
+Ping Me : [Telegram](https://t.me/codeilde02)
+          
+   [Group Support](https://t.me/codeildesp)

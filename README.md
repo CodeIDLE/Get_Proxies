@@ -28,4 +28,4 @@ For Any Queries:
 
 Ping Me : [Telegram](https://t.me/codeilde02)
           
-Group: [Group Support](https://t.me/codeildesp)
+Group: [Group Support Telegram](https://t.me/codeildesp)
